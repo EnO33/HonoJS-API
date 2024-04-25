@@ -1,0 +1,6 @@
+name = "profanity-api-enoblio"
+compatibility_date = "2024-04-25"
+
+[vars]
+VECTOR_URL = "https://enormous-seasnail-75448-eu1-vector.upstash.io"
+VECTOR_TOKEN = "ABsFMGVub3Jtb3VzLXNlYXNuYWlsLTc1NDQ4LWV1MWFkbWluWWpCbE9EVmlZMkl0TVRGbU5DMDBPR1JsTFRrNU9Ua3RNRFE0WXpRNE9XRXhPVEJo"
